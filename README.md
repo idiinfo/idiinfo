@@ -1,16 +1,27 @@
-## Hi there 👋
+# IDI Infotech – Web Design & SEO Company in Coimbatore
 
-<!--
-**idiinfo/idiinfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the official SEO content repository of **IDI Infotech**, a leading web design and SEO company based in Coimbatore.
 
-Here are some ideas to get you started:
+This repository contains keyword-optimized content created to improve our online visibility and support our digital marketing efforts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 About Us
+
+At IDI Infotech, we specialize in:
+- Custom Website Design & Development
+- E-commerce & CMS Solutions
+- Search Engine Optimization (SEO)
+- Digital Marketing Strategies
+
+Our goal is to help businesses grow their online presence with professional websites and top Google rankings.
+
+## 📄 SEO Articles
+
+Click below to view our content:
+
+- [Web Design and SEO Company in Coimbatore](./idiinfotech.md)
+
+## 🔗 Official Website
+
+➡️ Visit us: [https://idiinfotech.com](https://idiinfotech.com)
+
+📞 Contact us today for a custom quote or a free consultation.
